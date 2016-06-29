@@ -10,8 +10,8 @@ body {
 .container {
 	background: black;
 	padding: 10px;
+	height: 400px;
 }
-
 header,
 nav,
 section,
@@ -45,7 +45,7 @@ section {
 	line-height: 50px;
 	margin-right: 20px;
 	padding: 10px;
-
+	float: left;
 
 }
 
@@ -61,9 +61,9 @@ article {
 }
 
 aside {
-	position: relative;
+	float: left;
 	padding: 20px;
-	right: 0;
+	position: relative;
 	top: 0;
 
 
