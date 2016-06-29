@@ -42,7 +42,7 @@ nav {
 
 section {
 	width: 495px;
-	line-height: 50px;
+	line-height: 20px;
 	margin-right: 20px;
 	padding: 10px;
 
@@ -51,8 +51,8 @@ section {
 
 article {
 	background: red;
-	position: relative;
-	bottom: -10;
+	
+	
 	color: white;
 	padding-left: 20px;
 	padding-right: 25px;
@@ -62,7 +62,7 @@ article {
 }
 
 aside {
-	
+	bottom: 20px;
 	
 	float: right;	
 
