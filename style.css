@@ -7,11 +7,11 @@ body {
 	text-align: center;
 	color: #999;
 	}
-.container {
-	background: black;
-	padding: 10px;
-	height: 400px;
-}
+/*.container {
+	background: yellow;
+	
+	
+}*/
 header,
 nav,
 section,
@@ -50,11 +50,11 @@ section {
 }
 
 article {
-	background: red;
-	position: relative;
-	bottom: -10;
-	color: white;
+	background: #777;
 	padding: 20px;
+	
+	color: white;
+	
 
 
 
@@ -64,16 +64,16 @@ aside {
 	float: left;
 	padding: 20px;
 	position: relative;
-	top: 0;
-
-
+	left: 0;
+	width: 385px;
+	height: 271px;
+	margin-bottom: 20px;
 }
-
 h1 {
 	background: white;
 	font-size: 18px;
 	color: #777;
-	position: relative;
+	
 
 }
 
@@ -82,12 +82,11 @@ p {
 	font-size: 18px;
 	color: #999;
 
-
 }
 
 footer {
-	margin-top: 20px;
 	clear: both;
+	
 
 
 }
